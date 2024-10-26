@@ -7,6 +7,6 @@ Skills:  HTML / CSS / JS  / c / c++ / java / python django framework
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-431)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rakibul-431)  
+ 
 
 
