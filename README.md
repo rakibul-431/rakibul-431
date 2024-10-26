@@ -1,6 +1,5 @@
 # Hi there 👋
 ### Hi there 👋, I'm Rakibul islam
-![](https://lh3.googleusercontent.com/a/ACg8ocKD-mFZovNEG52rc7i5JlG2Cqp7TeNw-i6OSccbsHQD-RLrK6M=s192-c-rg-br100)
 
 I made some projects to use Python django framework .. Block project and task management system
 
