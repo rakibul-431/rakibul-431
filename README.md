@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Hi there 👋, I'm Rakibul islam
 
-I made some projects to use Python django framework .. Block project and task management system
+I made some projects by use Python django framework .. Block project and task management system
 
 Skills:  HTML / CSS / JS  / c / c++ / java / python django framework 
 
